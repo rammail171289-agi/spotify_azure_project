@@ -1,0 +1,15 @@
+{
+	"name": "adfspotifyprojectansh",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0ae276d8-59cc-4bf6-a23d-089a4bc381d0",
+		"tenantId": "c2ac37f0-009a-4af2-b2af-da17e6a5217e"
+	}
+}
